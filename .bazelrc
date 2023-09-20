@@ -1,0 +1,2 @@
+build --cxxopt=-g
+build --cxxopt=-std=c++20
